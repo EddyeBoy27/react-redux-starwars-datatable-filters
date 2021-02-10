@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto de Testes em React!
+# Boas vindas ao repositório do Projeto de Starwars Redux!
 
 ## O que foi desenvolvido
 
